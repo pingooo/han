@@ -1,5 +1,7 @@
 # 漢文對照表
 
+[點此下載對照表](https://raw.githubusercontent.com/pingooo/han/master/%E6%BC%A2%E6%96%87%E5%B0%8D%E7%85%A7%E8%A1%A8.csv)
+
 漢文（在現代常稱為中文）在東亞地區用了幾千年，最主要的使用族群長期以來是生活在黃河長江流域的人民，另外有些居住在朝鮮半島、日本群島、臺灣、香港、中南半島等地的人民也曾經或正在使用漢文來部分或完整表示他們的語言。
 
 語言是活的，不同地區的人們發展出不同用語是自然的現象。
@@ -12,7 +14,7 @@
 
 ## 使用方式
 
-對照表是個 [CSV 檔](https://zh.wikipedia.org/wiki/%E9%80%97%E5%8F%B7%E5%88%86%E9%9A%94%E5%80%BC)（comma-separated values），應該可以用任何試算表軟體開啟。
+[對照表](https://github.com/pingooo/han/blob/master/%E6%BC%A2%E6%96%87%E5%B0%8D%E7%85%A7%E8%A1%A8.csv)是個 [CSV 檔](https://zh.wikipedia.org/wiki/%E9%80%97%E5%8F%B7%E5%88%86%E9%9A%94%E5%80%BC)（comma-separated values），應該可以用任何試算表軟體開啟。
 
 內容文字是以 Unicode 的 [UTF-8 編碼](https://zh.wikipedia.org/wiki/UTF-8)表示，這在 Windows、Mac、Linux、BSD、和主流[智慧型手機](https://zh.wikipedia.org/wiki/%E6%99%BA%E8%83%BD%E6%89%8B%E6%9C%BA)上都有支援。
 
